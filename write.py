@@ -77,7 +77,7 @@ def main():
             csv_writer.writerow(line)
 
 if __name__ == '__main__':
-  # csv1()
+   csv1()
    main()
 
 
